@@ -16,3 +16,7 @@ Files in Project:-
 ** .OBJ files are automatically generated when code is compile.
 
 ---------------------------------------------------------------------------------------------------------
+Here are screenshots of the game:
+
+![screenshot1](https://user-images.githubusercontent.com/20368350/29095684-3f9d84f6-7cab-11e7-848e-06580f6ea15e.PNG)
+![screenshot2](https://user-images.githubusercontent.com/20368350/29095685-3fe10988-7cab-11e7-9d91-c85ab88c177c.PNG)
